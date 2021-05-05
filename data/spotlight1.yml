@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style5 orient-right content-align-center image-position-left onscroll-image-fade-in"
+id: "first"
+title : "FastTrack"
+content: |
+    FastTrack is a cross-platform desktop tracking software, easy to install, easy to use, and performant. It can be used with any image quality, any kind of object, and on every computer.<br><b>Technology:</b> C++/Qt, OpenCV, GitHub Actions, Hugo, Docusaurus, Doxygen, GoogleTest<br><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008697&rev=1" style="font-size:smaller">Gallois, Benjamin, and Raphaël Candelier. FastTrack: An open-source software for tracking varying numbers of deformable objects. PLoS computational biology 17.2 (2021): e1008697.</p>
+button:
+  label: "Learn More"
+  link: "https://www.fasttrack.sh"
+image: "images/fasttrack.png"
