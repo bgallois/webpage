@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-right content-align-center image-position-center onscroll-image-fade-in"
 title : "OpenJournal"
 content: |
-  OpenJournal is a simple journal, note-taking, and assistant cross-platform application supporting Markdown syntax and Markdown rendering thanks to qmarkdowntextedit. Write your thoughts, never forget a meeting or simply keep a daily diary.<br><b>Technology: </b> C++/Qt, SQLite, GitHub Actions, NSIS.
-button: 
+  OpenJournal is a simple cross-platform journal, note-taking, and assistant application supporting Markdown syntax and Markdown rendering thanks to qmarkdowntextedit. Write your thoughts, never forget a meeting or simply keep a daily diary. <br><b>Technology: </b> C++/Qt, SQLite, GitHub Actions, NSIS.<br><b>Role:</b> Design, conception, deployment, maintenance.
+button:
   label: "Learn More"
   link: "https://github.com/bgallois/OpenJournal"
 image: "images/openjournal.png"

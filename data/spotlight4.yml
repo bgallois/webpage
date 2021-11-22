@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
-style: "style5 orient-right content-align-center image-position-left onscroll-image-fade-in"
+style: "style1 orient-left content-align-center image-position-left onscroll-image-fade-in"
 id: "4"
 title : "LapsAnalyzer"
 content: |
-  LapAnalyzer is a tool to analyze race or training laps from FIT file. The software will autodetect laps based on GPS coordinates or manually recorded laps and compare data between laps (cadence, heart rate, power, speed). A graphical summary can be exported to upload to your preferred social network.<br><b>Technology: </b> Python/Qt, Pandas, Scipy, ScikitLearn, StatsModels.
+  LapAnalyzer is a tool to analyze race or training laps from FIT file. The software will autodetect laps based on GPS coordinates or manually recorded laps and compare data between laps (cadence, heart rate, power, speed). A graphical summary can be exported to upload to your preferred social network.<br><b>Technology: </b> Python/Qt, Pandas, Scipy, ScikitLearn, StatsModels.<br><b>Role:</b> Design, conception, deployment, maintenance.
 button:
   label: "Learn More"
   link: "https://github.com/bgallois/LapsAnalyzer"

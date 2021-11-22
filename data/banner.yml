@@ -1,11 +1,11 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style2 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Benjamin Gallois"
 subtitle: |
-  Desktop/Mobile developer.
+  Ph.D./Developer
 content : |
-  I am Benjamin Gallois, a desktop developer. I am the creator and maintainer of FastTrack an open-source tracking software for scientific and contributing to various scientific-related projects. I am programming mainly in C++ and Python and designing user interfaces using Qt5 and Qt6.  I am also creating applications for mobiles and embedded systems using Qml/Qt.
+  I am Benjamin Gallois, Ph.D. in physics. I am a self-taught developer interested in scientific computing and software development. I am the creator and maintainer of FastTrack an open-source tracking software that enables scientists to track objects easily. I contribute to various open-source scientific-related projects and share software and libraries that I develop for my use. I am programming mainly in C++ and Python and designing user interfaces using Qt. See several of my projects below!
 button:
-  label : "Get Started"
-  link : "#first"
+  label : "Contact"
+  link : "#footer"
 image : "images/banner.jpg"

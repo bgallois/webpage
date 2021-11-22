@@ -1,7 +1,7 @@
 style: "style3 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "OpticLevel"
 content: |
-  OpticLevel is a mobile application to align objects easily using the smartphone camera and sensors. For handyman or mechanic, check pole verticality, align handlebar wheel bicycle wheel.<br><b>Technology:</b> Qml, Android SDK.
+  OpticLevel is a mobile application to align objects easily using the smartphone camera and sensors. For handyman or mechanic, check pole verticality, align handlebar wheel bicycle wheel.<br><b>Technology:</b> Qml, Android SDK.<br><b>Role:</b> Design, conception, deployment, maintenance.
 button:
   label: "Learn More"
   link: "https://play.google.com/store/apps/details?id=org.zoad.opticlevel"
