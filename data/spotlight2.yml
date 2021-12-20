@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-center image-position-center onscroll-image-fade-in"
+style: "style1 orient-left content-align-center image-position-center onscroll-image-fade-in"
 title : "OpenJournal"
 content: |
-  OpenJournal is a simple cross-platform journal, note-taking, and assistant application supporting Markdown syntax and Markdown rendering thanks to qmarkdowntextedit. Write your thoughts, never forget a meeting or simply keep a daily diary. <br><b>Technology: </b> C++/Qt, SQLite, GitHub Actions, NSIS.<br><b>Role:</b> Design, conception, deployment, maintenance.
+  OpenJournal is a simple cross-platform journal, note-taking, and assistant application supporting Markdown syntax and Markdown rendering thanks to qmarkdowntextedit. Write your thoughts, never forget a meeting or simply keep a daily diary. OpenJournal includes a cloud option that allows storing Journals in the cloud developed with Flask and hosted on a webserver.<br><b>Technology: </b> C++/Qt, SQLite, GitHub Actions, NSIS, Flask, MariaDB.<br><b>Role:</b> Design, conception, deployment, maintenance, server setup and maintenance.
 button:
   label: "Learn More"
-  link: "https://github.com/bgallois/OpenJournal"
+  link: "https://gallois.cc/openjournal/"
 image: "images/openjournal.png"
