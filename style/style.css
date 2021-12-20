@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.4vmin;
+  line-height: 1.6;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+h1 {
+  font-family: 'Carter One', cursive;
+  font-size: 7.5vmin;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+h2 {
+  font-family: 'Baloo 2', cursive;
+  font-size: 3.2vmin;
+}
+
+h3 {
+  font-family: 'Carter One', cursive;
+  font-size: 3.2vmin;
+  font-weight: 300;
+}
+
+#header {
+  width: 70vw;
+  height:100vh;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+#header_content {
+  position: relative;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#portfolio {
+  width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid-container {
+  display: grid;
+}
+
+.grid-container--fill {
+  grid-template-columns: repeat(auto-fill, minmax(75ch, 1fr));
+}
+
+.box {
+  width: 80ch;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid DarkGray;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.box p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.8vmin;
+  line-height: 1.5;
+}
+
+.button {
+  width: 20%;
+  height: 20px;
+  text-align: center;
+  padding: 15px;
+  border: 2px solid DimGray;
+  border-radius: 20px;
+  line-height: 20px;
+  font-weight: 600;
+  background-color: white;
+  color: black;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.button:hover {
+  background-color: Gray;
+  color: white;
+  border: 2px solid Gray;
+}
+
+.button a {
+  color:inherit;
+  text-decoration: none;
+}
+
+#footer {
+  font-size: 3vmin;
+  width: 60vw;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 2px solid DimGray;
+  border-radius: 20px;
+  background-color: white;
+  margin-top: 20px;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  bottom: 10px;
+}
+
+.footer_button {
+  color:inherit;
+  text-decoration: none;
+  padding: 20px;
+  margin: 10px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+
+.footer_button:hover {
+  background-color: black;
+  color: white;
+}
+
+.miniature {
+  width: 45ch;
+  height: 25ch;
+  border-radius: 50px;
+}
+
+footer p {
+  font-size: 1.2vmin;
+  width: 60vw;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
