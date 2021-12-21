@@ -3,6 +3,7 @@ p {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.4vmin;
   line-height: 1.6;
+  color: #181818;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
@@ -21,6 +22,7 @@ h3 {
   font-family: 'Carter One', cursive;
   font-size: 3.2vmin;
   font-weight: 300;
+  color: #202020;
 }
 
 #header {
@@ -59,7 +61,7 @@ h3 {
   margin-right: auto;
   padding: 20px;
   text-align: center;
-  border: 2px solid DarkGray;
+  border: 2px solid #505050;
   border-radius: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -69,6 +71,10 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.8vmin;
   line-height: 1.5;
+}
+
+.box b {
+  font-weight: 900;
 }
 
 .button {
@@ -81,15 +87,15 @@ h3 {
   line-height: 20px;
   font-weight: 600;
   background-color: white;
-  color: black;
+  color: #383838;
   margin: 0 auto;
   margin-top: 10px;
 }
 
 .button:hover {
-  background-color: Gray;
+  background-color: #383838;
   color: white;
-  border: 2px solid Gray;
+  border: 2px solid #383838;
 }
 
 .button a {
@@ -103,7 +109,7 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  border: 2px solid DimGray;
+  border: 2px solid #383838;
   border-radius: 20px;
   background-color: white;
   margin-top: 20px;
@@ -113,16 +119,16 @@ h3 {
 }
 
 .footer_button {
-  color:inherit;
+  color: #383838;
   text-decoration: none;
   padding: 20px;
   margin: 10px;
-  border: 2px solid black;
+  border: 2px solid #202020;
   border-radius: 50%;
 }
 
 .footer_button:hover {
-  background-color: black;
+  background-color: #383838;
   color: white;
 }
 
