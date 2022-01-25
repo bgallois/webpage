@@ -52,14 +52,14 @@ h3 {
 }
 
 .grid-container--fill {
-  grid-template-columns: repeat(auto-fill, minmax(75ch, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(80ch, 1fr));
 }
 
 .box {
-  width: 80ch;
+  width: 75ch;
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
+  padding: 2ch;
   text-align: center;
   border: 2px solid #505050;
   border-radius: 20px;
